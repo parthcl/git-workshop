@@ -1,4 +1,4 @@
 <?php
-    echo "Hello All, I am Dhruvin Prajapati";
+    echo "Hello All";
     echo "I am Bhagvan ka manussss";
 ?>
